@@ -11,3 +11,10 @@ In my educational journey with Udacity in the course Data Analysis and Visualiza
 --------------------
 
 - National Clothing Chain: Made a market analysis report to improve targeted marketing and reconnect with lost customers.
+
+## 🛠️ Tools & Skills Used
+
+- Excel (initial data exploration and formatting)
+- Microsoft Power BI
+- Power Query (data cleaning and transformation)
+- Interactive dashboard design
