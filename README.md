@@ -1,6 +1,6 @@
-In my educational journey with Udacity in the course Data Analysis and Visualization with Power BI, I completed three projects
+In my educational journey with Udacity in the course Data Analysis and Visualization with Power BI, I completed three projects (**all of which are included in the ZIP file in this repository**)
 
-- Seven Sages Tea Company: Developed a Power BI model to analyze sales and profitability, helping the CFO with important decisions
+- Seven Sages Tea Company (SSTC): Developed a Power BI model to analyze sales and profitability, helping the CFO with important decisions
 - **Live Interactive Dashboard for Seven Sages Tea Company**
 👉 https://app.powerbi.com/groups/me/reports/3b81b340-5bd2-401d-9feb-6189d861fcdf/e3ef94b706283035654a?experience=power-bi 👈
 
