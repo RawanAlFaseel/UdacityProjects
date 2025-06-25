@@ -18,3 +18,11 @@ In my educational journey with Udacity in the course Data Analysis and Visualiza
 - Microsoft Power BI
 - Power Query (data cleaning and transformation)
 - Interactive dashboard design
+
+## 📥 To download the file:
+
+Click the file name on the left (UdacityProjects.zip)
+
+Then click "View raw" in the middle of the page
+
+The download will begin automatically
